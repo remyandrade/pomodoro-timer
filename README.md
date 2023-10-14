@@ -28,7 +28,7 @@ To use the Pomodoro Timer, simply open the `index.html` file in your web browser
 
 ## Author
 
-- [Remy Andrade]
+- Remy Andrade
 - [remyandrade](https://github.com/remyandrade)
 
 

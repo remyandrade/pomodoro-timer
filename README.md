@@ -1,6 +1,4 @@
-# Pomodoro Timer
-
-![Pomodoro Timer Screenshot](screenshot.png)
+# Pomodoro Timer Using HTML, CSS and JavaScript
 
 The Pomodoro Timer is a simple and effective time management tool based on the Pomodoro Technique. It's a web-based application built using HTML, CSS, and JavaScript that allows users to break their work into focused intervals (Pomodoros) and take short breaks in between. This approach is known for boosting productivity and maintaining concentration during work.
 
